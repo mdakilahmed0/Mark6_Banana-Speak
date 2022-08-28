@@ -3,7 +3,7 @@
 ## LessonFour: javascript in browser or vanillaJS
 
 ```
-## Things learn from this lesson:
+Things learn from this lesson:
     a. Attaching events to HTML elements
     b. Taking user input in the browser
     c. Selectors
